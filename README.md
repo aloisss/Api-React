@@ -1,3 +1,20 @@
+API INTEGRATION AND REACT
+
+Instructions On setting up project
+
+1 Copy the url for the repository in the code section on github.
+2 Open your terminal and then type. $ git clone {the url to the GitHub repo} This clones the repo.
+3 cd into the new folder and type. $ npm install to This installs the required dependencies.
+4 Run the React project by using $ npm start.
+
+Additions
+
+Stored User input data in the Input State Variable in the Create Component.
+Gave the user the ability to pick any model from the api and included the questions.
+Added some basic styling with CSS.
+
+More Information on using React App is provided below.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
