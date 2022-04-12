@@ -11,6 +11,10 @@ Instructions On setting up project
 
 4 Run the React project by using $ npm start.
 
+NOTE:
+
+The main component is found in the APP.JS  , The Results Component found in Results.js shows the Decisions to the user , The Create Component found in Create.js handles User Input Forms.
+
 Additions
 
 1. Stored User input data in the Input State Variable in the Create Component.
